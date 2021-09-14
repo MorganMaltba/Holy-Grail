@@ -2,7 +2,7 @@
 ### A Model 3-Tiered Application!
 
 **Description:** <br>
-This project demonstrates a model application that includes and intergated front-end, server and datastore.<br>
+This project demonstrates a model application that includes and integrated front-end, server and datastore.<br>
 1. React front-end interface displays information in each component and allows user to interact with server.
 2. Express server communicates and updates information between the interface and the datastore.
 3. Dockerized Redis datastore holds the data that tracks how many times each section has been clicked.
